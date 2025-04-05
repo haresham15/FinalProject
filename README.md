@@ -2,6 +2,9 @@
 
 The TutorMatch App is a Streamlit-based web application designed to match students with certified tutors using a combination of course performance, geographic proximity, and AI-based evaluation. It leverages Hugging Face's zero-shot classification pipeline to validate tutor credentials and resumes, ensuring that students are connected with qualified tutors.
 
+Deployed App:
+https://finaltutormatch.streamlit.app/
+
 ## Features
 
 - **Student Registration**:  
